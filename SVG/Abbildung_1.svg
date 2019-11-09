@@ -9,9 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="abbildung1"
    version="1.1"
-   viewBox="0 0 215.04439 108.30891"
-   sodipodi:docname="Abbildung1.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   viewBox="0 0 135.84862 113.79361"
+   sodipodi:docname="Abbildung_1.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="135.84862"
+   height="113.7936">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,15 +27,156 @@
      inkscape:window-height="1377"
      id="namedview128"
      showgrid="false"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="46.334188"
-     inkscape:cy="27.96465"
+     inkscape:zoom="8"
+     inkscape:cx="37.068567"
+     inkscape:cy="61.199213"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g3927" />
   <defs
-     id="defs10" />
+     id="defs10">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12610"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path12608"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10816"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path10814"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4987"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5578"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5576"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5514"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5512"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4972"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5099"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5117"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#ffffff;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8) translate(-6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4966"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4969"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -47,95 +190,100 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(1.8618005,-8.0011793)"
+     transform="translate(27.83353,-16.992916)"
      id="layer1">
     <g
        transform="matrix(0.26458333,0,0,0.26458333,60.041666,1.9151615)"
        id="g3927">
       <path
-         d="M -153.78582,62.637157 H 66.893737"
+         d="m -315.78673,87.66561 h 167.93257"
          id="path3731"
-         style="stroke:#000000;stroke-width:1.41461265"
+         style="stroke:#000000;stroke-width:1.07649088"
          inkscape:connector-curvature="0" />
       <path
-         d="m -44.153354,62.637157 v 68.431893 0"
+         d="m -232.3587,87.66561 v 52.07524 0"
          id="path3733"
-         style="stroke:#000000;stroke-width:1.63982213"
+         style="stroke:#000000;stroke-width:1.24787068"
          inkscape:connector-curvature="0" />
       <text
-         x="-154.44882"
-         y="60.939102"
+         x="-316.15915"
+         y="86.400032"
          font-size="18"
          id="text3735"
          transform="scale(1.0006652,0.99933524)"
-         style="font-size:18px">
+         style="font-size:13.69762707px;stroke-width:0.76097929">
         <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31690121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.98496228"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61192703px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.74953592"
            id="tspan3747">Soll</tspan>
       </text>
       <text
-         x="35.577641"
-         y="57.558334"
+         x="-183.32072"
+         y="81.588577"
          font-size="18"
          id="text3737"
          transform="scale(0.94469599,1.0585416)"
-         style="font-size:18px">
+         style="font-size:13.69762707px;stroke-width:0.76097929">
         <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31690121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.99762249"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61192703px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.75917006"
            id="tspan3749">Haben</tspan>
       </text>
       <text
          xml:space="preserve"
-         x="-69.962509"
-         y="60.818321"
-         id="ebk"><tspan
+         x="-251.99895"
+         y="86.281502"
+         id="ebk"
+         style="font-size:9.13175106px;stroke-width:0.76097929"><tspan
            id="tspan130"
-           x="-69.962509"
-           y="60.818321"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.40609932px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">EBK</tspan></text>
+           x="-251.99895"
+           y="86.281502"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.09449387px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.07649088">EBK</tspan></text>
       <text
          xml:space="preserve"
-         x="-153.89355"
-         y="79.577202"
-         id="ebk_pbp"><tspan
+         x="-315.86871"
+         y="100.55663"
+         id="ebk_pbp"
+         style="font-size:9.13175106px;stroke-width:0.76097929"><tspan
            id="tspan3755"
-           x="-153.89355"
-           y="79.577202"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86149979px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">PBP</tspan></text>
+           x="-315.86871"
+           y="100.55663"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.35321045px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.07649088">PBP</tspan></text>
       <text
          xml:space="preserve"
-         x="-41.354065"
-         y="79.321999"
-         id="ebk_abp"><tspan
+         x="-230.2285"
+         y="100.36242"
+         id="ebk_abp"
+         style="font-size:9.13175106px;stroke-width:0.76097929"><tspan
            id="tspan3755-8"
-           x="-41.354065"
-           y="79.321999"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86149979px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">ABP</tspan></text>
+           x="-230.2285"
+           y="100.36242"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.35321045px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.07649088">ABP</tspan></text>
       <path
-         d="M -153.78582,120.6767 H 66.893737"
+         d="m -315.78673,131.83249 h 167.93257"
          id="path3731-3"
-         style="stroke:#000000;stroke-width:1.41461265"
+         style="stroke:#000000;stroke-width:1.07649088"
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         x="-42.88665"
-         y="130.49451"
-         id="text3813"><tspan
+         x="-231.39476"
+         y="139.30365"
+         id="text3813"
+         style="font-size:9.13175106px;stroke-width:0.76097929"><tspan
            id="tspan3811"
-           x="-42.88665"
-           y="130.49451"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31690121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">Σ</tspan></text>
+           x="-231.39476"
+           y="139.30365"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61192703px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.07649088">Σ</tspan></text>
       <text
          xml:space="preserve"
-         x="-153.78516"
-         y="130.34135"
-         id="text3813-6"><tspan
+         x="-315.78622"
+         y="139.1871"
+         id="text3813-6"
+         style="font-size:9.13175106px;stroke-width:0.76097929"><tspan
            id="tspan3811-8"
-           x="-153.78516"
-           y="130.34135"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31690121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">Σ</tspan></text>
+           x="-315.78622"
+           y="139.1871"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61192703px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.07649088">Σ</tspan></text>
       <g
-         transform="matrix(1.0545082,0,0,1.0636125,39.157853,116.77807)"
+         transform="matrix(1.0465419,0,0,1.0555774,-142.65683,112.4446)"
          id="g4021">
         <path
            d="M 83.065927,16.59525 H 239.06593"
@@ -171,13 +319,13 @@
         </text>
         <text
            xml:space="preserve"
-           x="126.94549"
-           y="13.085279"
+           x="127.16949"
+           y="13.536003"
            id="pbk"
            style="font-size:13.43918324px;stroke-width:1.11993194"><tspan
              id="tspan3751-2"
-             x="126.94549"
-             y="13.085279"
+             x="127.16949"
+             y="13.536003"
              style="font-size:19.03353882px;stroke-width:1.11993194">PBK</tspan></text>
         <text
            xml:space="preserve"
@@ -222,12 +370,12 @@
              style="font-size:8px">Σ</tspan></text>
         <text
            xml:space="preserve"
-           x="165.30879"
-           y="49.609535"
+           x="164.41275"
+           y="50.053719"
            id="pbk_mehrung"><tspan
              id="tspan3837"
-             x="165.30879"
-             y="49.609535"
+             x="164.41275"
+             y="50.053719"
              style="font-size:18.66666603px">+</tspan></text>
         <text
            xml:space="preserve"
@@ -240,7 +388,7 @@
              style="font-size:18.66666603px">-</tspan></text>
       </g>
       <g
-         transform="matrix(1.0013739,0,0,1.0542692,-209.01964,189.97417)"
+         transform="matrix(1.0013739,0,0,1.0542692,-319.43748,178.76412)"
          id="g4071">
         <path
            d="m 4.5,20.364286 h 156"
@@ -344,7 +492,7 @@
              style="font-size:18.66666603px">-</tspan></text>
       </g>
       <g
-         transform="matrix(1.0885178,0,0,1.0885178,193.05287,334.07743)"
+         transform="matrix(1.0885178,0,0,1.0885178,-54.120141,396.18592)"
          id="g122">
         <path
            d="m 4.5,20.364286 h 156"
@@ -457,21 +605,21 @@
              style="font-size:6.66666651px">Saldo Erträge</tspan></text>
       </g>
       <g
-         transform="matrix(0.94315846,0,0,0.94315846,325.9226,191.50512)"
+         transform="matrix(0.94315846,0,0,0.94315846,13.197309,253.0184)"
          id="g164">
         <path
-           d="m 4.5,20.364286 h 156"
+           d="M 3.4981727,20.8652 H 159.49817"
            id="path3731-34"
            style="stroke:#000000"
            inkscape:connector-curvature="0" />
         <path
-           d="m 82,20.364286 v 48.375 0"
+           d="m 80.998173,20.8652 v 48.375 0"
            id="path3733-6"
            style="stroke:#000000;stroke-width:1.15920246"
            inkscape:connector-curvature="0" />
         <text
-           x="4.2638683"
-           y="19.148008"
+           x="3.262707"
+           y="19.649256"
            font-size="18"
            id="text3735-1"
            transform="scale(1.0006652,0.99933524)"
@@ -481,8 +629,8 @@
              id="tspan3747-9">Soll</tspan>
         </text>
         <text
-           x="144.50206"
-           y="18.096588"
+           x="143.44159"
+           y="18.569799"
            font-size="18"
            id="text3737-92"
            transform="scale(0.94469599,1.0585416)"
@@ -493,57 +641,57 @@
         </text>
         <text
            xml:space="preserve"
-           x="59.399998"
-           y="16.607145"
+           x="58.39817"
+           y="17.108059"
            id="text3753-4"><tspan
              id="tspan3751-8"
-             x="59.399998"
-             y="16.607145"
+             x="58.39817"
+             y="17.108059"
              style="font-size:12px">Erträge</tspan></text>
         <text
            xml:space="preserve"
-           x="5.8381124"
-           y="33.51791"
+           x="4.8362851"
+           y="35.020653"
            id="text3757-1"><tspan
              id="tspan3755-6"
-             x="5.8381124"
-             y="33.51791"
+             x="4.8362851"
+             y="35.020653"
              style="font-size:13.33333302px">Saldo</tspan></text>
         <path
-           d="m 4.5,61.392857 h 156"
+           d="M 3.4981727,61.893771 H 159.49817"
            id="path3731-3-2"
            style="stroke:#000000"
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
-           x="82.895454"
-           y="68.333145"
+           x="81.893623"
+           y="68.834061"
            id="text3813-5"><tspan
              id="tspan3811-01"
-             x="82.895454"
-             y="68.333145"
+             x="81.893623"
+             y="68.834061"
              style="font-size:8px">Σ</tspan></text>
         <text
            xml:space="preserve"
-           x="4.5004659"
-           y="68.224869"
+           x="3.4986386"
+           y="68.725784"
            id="text3813-6-1"><tspan
              id="tspan3811-8-87"
-             x="4.5004659"
-             y="68.224869"
+             x="3.4986386"
+             y="68.725784"
              style="font-size:8px">Σ</tspan></text>
         <text
            xml:space="preserve"
-           x="83.442856"
-           y="35.228569"
+           x="82.94194"
+           y="36.731312"
            id="ertraege_mehrung"><tspan
              id="tspan3837-3"
-             x="83.442856"
-             y="35.228569"
+             x="82.94194"
+             y="36.731312"
              style="font-size:18.66666603px">+</tspan></text>
       </g>
       <g
-         transform="matrix(0.79062152,0,0,0.79062152,418.99509,336.58809)"
+         transform="matrix(0.94052302,0,0,0.951421,-189.50966,275.67803)"
          id="g206">
         <path
            d="m 4.5,20.364286 h 156"
@@ -589,11 +737,11 @@
         <text
            xml:space="preserve"
            x="85.509537"
-           y="33.753624"
+           y="34.250187"
            id="text3757-7"><tspan
              id="tspan3755-80"
              x="85.509537"
-             y="33.753624"
+             y="34.250187"
              style="font-size:13.33333302px">Saldo</tspan></text>
         <path
            d="m 4.5,61.392857 h 156"
@@ -621,110 +769,111 @@
         <text
            xml:space="preserve"
            x="4.9499989"
-           y="34.521423"
+           y="35.514549"
            id="aufwendungen_mehrung"><tspan
              id="tspan3837-0"
              x="4.9499989"
-             y="34.521423"
+             y="35.514549"
              style="font-size:18.66666603px">+</tspan></text>
       </g>
       <path
-         d="M -183.30248,347.8487 H 37.377076"
+         d="m -287.7793,393.92611 h 155.00143"
          id="path3731-88"
-         style="stroke:#000000;stroke-width:1.41461265"
+         style="stroke:#000000;stroke-width:0.99359894"
          inkscape:connector-curvature="0" />
       <path
-         d="m -73.670014,347.8487 v 68.43188 0"
+         d="m -210.77539,393.92611 v 48.06535 0"
          id="path3733-8"
-         style="stroke:#000000;stroke-width:1.63982213"
+         style="stroke:#000000;stroke-width:1.15178216"
          inkscape:connector-curvature="0" />
       <text
-         style="font-size:18px;stroke-width:0.99999994"
-         x="-183.94586"
-         y="346.34036"
+         style="font-size:12.64288235px;stroke-width:0.70238233"
+         x="-288.12549"
+         y="392.96622"
          font-size="18"
          id="text3735-6"
          transform="scale(1.0006652,0.99933525)">
         <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31690121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.98496222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9487915px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.69182009"
            id="tspan3747-19">Soll</tspan>
       </text>
       <text
-         style="font-size:18px;stroke-width:0.99999994"
-         x="4.3330321"
-         y="326.99652"
+         style="font-size:12.64288235px;stroke-width:0.70238233"
+         x="-165.29733"
+         y="371.00623"
          font-size="18"
          id="text3737-48"
          transform="scale(0.94469599,1.0585416)">
         <tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31690121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.99762249"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9487915px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.70071244"
            id="tspan3749-1">Haben</tspan>
       </text>
       <text
-         style="font-size:12px;stroke-width:0.99999994"
+         style="font-size:8.42858791px;stroke-width:0.70238233"
          xml:space="preserve"
-         x="-99.479156"
-         y="346.02985"
+         x="-228.90327"
+         y="392.64859"
          id="sbk"><tspan
            id="tspan130-2"
-           x="-99.479156"
-           y="346.02985"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.40609932px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">SBK</tspan></text>
+           x="-228.90327"
+           y="392.64859"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.54717827px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.99359894">SBK</tspan></text>
       <text
-         style="font-size:12px;stroke-width:0.99999994"
+         style="font-size:8.42858791px;stroke-width:0.70238233"
          xml:space="preserve"
-         x="-183.41022"
-         y="364.78873"
+         x="-287.85495"
+         y="405.82449"
          id="sbk_sb-abk"><tspan
            id="tspan3755-1"
-           x="-183.41022"
-           y="364.78873"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86149979px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">SB ABK</tspan></text>
+           x="-287.85495"
+           y="405.82449"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.24798489px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.99359894">SB ABK</tspan></text>
       <text
-         style="font-size:12px;stroke-width:0.99999994"
+         style="font-size:8.42858791px;stroke-width:0.70238233"
          xml:space="preserve"
-         x="-70.870728"
-         y="364.53354"
+         x="-208.8092"
+         y="405.64523"
          id="sbk_sb-pbk"><tspan
            id="tspan3755-8-18"
-           x="-70.870728"
-           y="364.53354"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86149979px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">SB PBK</tspan></text>
+           x="-208.8092"
+           y="405.64523"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.24798489px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.99359894">SB PBK</tspan></text>
       <path
-         d="M -183.30248,405.88823 H 37.377076"
+         d="m -287.7793,434.69205 h 155.00143"
          id="path3731-3-1"
-         style="stroke:#000000;stroke-width:1.41461265"
+         style="stroke:#000000;stroke-width:0.99359894"
          inkscape:connector-curvature="0" />
       <text
-         style="font-size:12px;stroke-width:0.99999994"
+         style="font-size:8.42858791px;stroke-width:0.70238233"
          xml:space="preserve"
-         x="-72.40332"
-         y="415.70602"
+         x="-209.88567"
+         y="441.58786"
          id="text3813-1"><tspan
            id="tspan3811-9"
-           x="-72.40332"
-           y="415.70602"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31690121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">Σ</tspan></text>
+           x="-209.88567"
+           y="441.58786"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9487915px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.99359894">Σ</tspan></text>
       <text
-         style="font-size:12px;stroke-width:0.99999994"
+         style="font-size:8.42858791px;stroke-width:0.70238233"
          xml:space="preserve"
-         x="-183.30182"
-         y="415.55289"
+         x="-287.77884"
+         y="441.48032"
          id="text3813-6-3"><tspan
            id="tspan3811-8-9"
-           x="-183.30182"
-           y="415.55289"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31690121px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.41461265">Σ</tspan></text>
+           x="-287.77884"
+           y="441.48032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9487915px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.99359894">Σ</tspan></text>
       <text
          xml:space="preserve"
-         x="213.22375"
-         y="128.59293"
-         id="pbk_ek"><tspan
+         x="29.272814"
+         y="124.55325"
+         id="pbk_ek"
+         style="font-size:11.8276844px;stroke-width:0.98564035"><tspan
            sodipodi:role="line"
            id="tspan577"
-           x="213.22375"
-           y="128.59293"
-           style="font-size:17.20398712px;line-height:1.25;writing-mode:lr-tb;direction:ltr;stroke-width:5.93090105">(EK)</tspan></text>
+           x="29.272814"
+           y="124.55325"
+           style="font-size:16.95694351px;line-height:1.25;writing-mode:lr-tb;direction:ltr;stroke-width:5.84573555">(EK)</tspan></text>
     </g>
   </g>
 </svg>
