@@ -1,0 +1,9 @@
+/* SVG */
+.svg {
+    text-align: center;
+}
+
+svg text:hover {
+    fill: red;
+    cursor: default;
+}
