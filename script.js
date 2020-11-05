@@ -20,7 +20,7 @@ SVGInject.setOptions({
       svg_tooltip('abk_mehrung', "Mehrung");   
       svg_tooltip('abk_minderung', "Minderung");   
       svg_tooltip('pbk', "Passivbilanzkonto");   
-      svg_tooltip('pbk_ek', "Anfangsbestand");   
+      svg_tooltip('pbk_ek', "Eigenkapital");   
       svg_tooltip('pbk_ab', "Anfangsbestand");   
       svg_tooltip('pbk_sb', "Schlussbestand");   
       svg_tooltip('pbk_mehrung', "Mehrung");   
